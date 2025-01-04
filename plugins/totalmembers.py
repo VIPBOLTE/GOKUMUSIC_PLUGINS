@@ -1,4 +1,4 @@
-from BADMUSIC.utils.bad_ban import admin_filter
+from GOKUMUSIC.utils.goku_ban import admin_filter
 import os
 import csv
 from pyrogram import Client, filters
