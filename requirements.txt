@@ -12,3 +12,6 @@ nekos.py
 telegraph
 uuid
 git+https://github.com/Vivekkumar-IN/TheApi@main
+requests
+git+https://github.com/TheChampu/TheAPI
+git+https://github.com/TheChampu/ChampuAPI
